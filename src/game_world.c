@@ -84,10 +84,10 @@ void game_attribute_display()
 {
 	printf("________________________\n");
 	printf("| Hero. | HP~%2d AP~%2d | \n", hero->hp, hero->attackpoint);
-	printf("£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ\n");
+	printf("ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£\n");
 	printf("________________________\n");
 	printf("| Slime | HP~%2d AP~%2d | \n", slime->hp, slime->attackpoint);
-	printf("£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ£þ\n");
+	printf("ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£\n");
 }
 
 char game_input()
